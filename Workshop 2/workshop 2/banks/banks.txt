@@ -1,0 +1,7 @@
+Number of banks: 2
+Minimum asset limit: 201
+Bank # 0 -> Balance: 25 -> Number of banks Loaned: 20 -> Bank ID: 100 -> Amount: 100.5 -> Bank ID: 4 -> Amount: 320.5
+Bank # 1 -> Balance: 125 -> Number of banks Loaned: 2 -> Bank ID: 2 -> Amount: 40 -> Bank ID: 3 -> Amount: 85
+Bank # 2 -> Balance: 175 -> Number of banks Loaned: 2 -> Bank ID: 0 -> Amount: 125 -> Bank ID: 3 -> Amount: 75
+Bank # 3 -> Balance: 75 -> Number of banks Loaned: 1 -> Bank ID: 0 -> Amount: 125
+Bank # 4 -> Balance: 181 -> Number of banks Loaned: 1 -> Bank ID: 2 -> Amount: 125
